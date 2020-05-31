@@ -1,0 +1,2 @@
+## 01 - Aprendizado Supervisionado e Nao Supervisionado
+Atividade referente a introdução sobre os tipos de aprendizados de máquina **Supervisionados** e **Não Supervisionados**. Esse *Notebook* representa uma atividade em que se desejava escolher dois *datasets* sendo que um é um bom candidato para o tipo de aprendizado **Supervisionado** e outro para o tipo **Não Supervisionado** com uma exploração dos próprios *datasets* para justificar a escolha
